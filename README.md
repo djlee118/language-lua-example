@@ -1,2 +1,2 @@
-# language_lua_example
+# language-lua-example
 lua example code
